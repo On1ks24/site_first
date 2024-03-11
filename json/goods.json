@@ -1,0 +1,242 @@
+{
+    "Nike Air Force 1 Low Original": {
+      "brend": "Nike",
+      "Name": "Nike Air Force 1 Low Original",
+      "cost": 6999,
+      "image": "pic/Air Force Low 1 Original.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Nike"
+    },
+    "Nike Air Force 1 Low Skeleton Purple": {
+      "brend": "Nike",
+      "Name": "Nike Air Force 1 Low Skeleton Purple",
+      "cost": 11999,
+      "image": "pic/Air Force Low 1 Skeleton Purple.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Nike"
+    },
+    "Nike Air Force 1 Low Brown": {
+      "brend": "Nike",
+      "Name": "Nike Air Force 1 Low Brown",
+      "cost": 9999,
+      "image": "pic/Air Force Low 1 Brown.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Nike"
+    },
+    "Nike Air Force 1 Low Desert": {
+      "brend": "Nike",
+      "Name": "Nike Air Force 1 Low Desert",
+      "cost": 7999,
+      "image": "pic/Air Force Low 1 Desert.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Nike"
+    },
+    "Nike Air Force 1 Low Toasty": {
+      "brend": "Nike",
+      "Name": "Nike Air Force 1 Low Toasty",
+      "cost": 8999,
+      "image": "pic/Air Force Low 1 Toasty.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Nike"
+    },
+    "Nike Dunk Low Pure Platinum": {
+      "brend": "Nike",
+      "Name": "Nike Dunk Low Pure Platinum",
+      "cost": 7999,
+      "image": "pic/Dunk Low Pure Platinum.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Nike"
+    },
+    "Nike Dunk Low Team Gold": {
+      "brend": "Nike",
+      "Name": "Nike Dunk Low Team Gold",
+      "cost": 7999,
+      "image": "pic/Dunk Low Team Gold.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Nike"
+    },
+    "Nike Dunk Low Sun Club": {
+      "brend": "Nike",
+      "Name": "Nike Dunk Low Sun Club",
+      "cost": 7999,
+      "image": "pic/Dunk Low Sun Club.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Nike"
+    },
+    "Nike Dunk Low Fleece": {
+      "brend": "Nike",
+      "Name": "Nike Dunk Low Fleece",
+      "cost": 9999,
+      "image": "pic/Dunk Low Fleece.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Nike"
+    },
+    "Nike Dunk Low Arizona State": {
+      "brend": "Nike",
+      "Name": "Nike Dunk Low Arizona State",
+      "cost": 6999,
+      "image": "pic/Dunk Low Arizona State.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Nike"
+    },
+    "Adidas Ozweego": {
+      "brend": "Adidas",
+      "Name": "Adidas Ozweego",
+      "cost": 5999,
+      "image": "pic/Ozweego.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Adidas"
+    },
+    "Adidas Rivalry Low": {
+      "brend": "Adidas",
+      "Name": "Adidas Rivalry Low",
+      "cost": 8999,
+      "image": "pic/Rivalry Low.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Adidas"
+    },
+    "Adidas FORUM Exhibit": {
+      "brend": "Adidas",
+      "Name": "Adidas FORUM Exhibit",
+      "cost": 6999,
+      "image": "pic/FORUM Exhibit.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Adidas"
+    },
+    "Adidas FORUM Bigniu": {
+      "brend": "Adidas",
+      "Name": "Adidas FORUM Bigniu",
+      "cost": 16999,
+      "image": "pic/FORUM Bigniu.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Adidas"
+    },
+    "Adidas Niteball": {
+      "brend": "Adidas",
+      "Name": "Adidas FORUM Exhibit",
+      "cost": 5999,
+      "image": "pic/Niteball.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Adidas"
+    },
+    "Vans Black": {
+      "brend": "Vans",
+      "Name": "Vans Black",
+      "cost": 4999,
+      "image": "pic/Vans Black.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Vans"
+    },
+    "Vans Green": {
+      "brend": "Vans",
+      "Name": "Vans Green",
+      "cost": 3999,
+      "image": "pic/Vans Green.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Vans"
+    },
+    "Vans x ONE PIECE": {
+      "brend": "Vans",
+      "Name": "Vans x ONE PIECE",
+      "cost": 5999,
+      "image": "pic/Vans x ONE PIECE.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Vans"
+    },
+    "Vans x ROKIT": {
+      "brend": "Vans",
+      "Name": "Vans x ROKIT",
+      "cost": 4999,
+      "image": "pic/Vans x ROKIT.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Vans"
+    },
+    "Vans x SAILOR MOON": {
+      "brend": "Vans",
+      "Name": "Vans x SAILOR MOON",
+      "cost": 6999,
+      "image": "pic/Vans x SAILOR MOON.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Vans"
+    },
+    "New Balance 550 Orange": {
+      "brend": "New Balance",
+      "Name": "New Balance 550 Orange",
+      "cost": 6999,
+      "image": "pic/550 Orange.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "New Balance"
+    },
+    "New Balance 550 Green": {
+      "brend": "New Balance",
+      "Name": "New Balance 550 Green",
+      "cost": 8999,
+      "image": "pic/550 Green.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "New Balance"
+    },
+    "New Balance 2002R": {
+      "brend": "New Balance",
+      "Name": "New Balance 2002R",
+      "cost": 13999,
+      "image": "pic/2002R.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "New Balance"
+    },
+    "New Balance x MIU MIU": {
+      "brend": "New Balance",
+      "Name": "New Balance x MIU MIU",
+      "cost": 89999,
+      "image": "pic/New Balance x MIU MIU.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "New Balance"
+    },
+    "New Balance 574": {
+      "brend": "New Balance",
+      "Name": "New Balance 574",
+      "cost": 7999,
+      "image": "pic/New Balance 574.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "New Balance"
+    },
+    "Reebok x Ghostbusters": {
+      "brend": "Reebok",
+      "Name": "Reebok x Ghostbusters",
+      "cost": 7999,
+      "image": "pic/Reebok x Ghostbusters.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Reebok"
+    },
+    "Reebok Spider Web": {
+      "brend": "Reebok",
+      "Name": "Reebok Spider Web",
+      "cost": 6999,
+      "image": "pic/Reebok Spider Web.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Reebok"
+    },
+    "Reebok x Minions": {
+      "brend": "Reebok",
+      "Name": "Reebok x Minions",
+      "cost": 4999,
+      "image": "pic/Reebok x Minions.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Reebok"
+    },
+    "Reebok x Jurassic Park": {
+      "brend": "Reebok",
+      "Name": "Reebok x Jurassic Park",
+      "cost": 25999,
+      "image": "pic/Reebok x Jurassic Park.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Reebok"
+    },
+    "Reebok x Cardi B": {
+      "brend": "Reebok",
+      "Name": "Reebok x Cardi B",
+      "cost": 11999,
+      "image": "pic/Reebok x Cardi B.jpg",
+      "razmeri": [35, 36, 37, 38, 39, 40, 41, 42, 43],
+      "brend2": "Reebok"
+    }
+  }
